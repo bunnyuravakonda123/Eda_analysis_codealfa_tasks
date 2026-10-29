@@ -27,7 +27,3 @@ Missing customer IDs make it harder to study individual customers. Duplicate row
 
 This analysis helped me understand the dataset and find data-quality problems. I will use these findings to create charts and study sales trends.
 This line chart shows how sales values change from month to month. It helps identify changes and patterns in sales over time.
-
-### Conclusion
-
-The charts make it easier to understand sales patterns and compare countries. The generated charts are saved as PNG image files.
