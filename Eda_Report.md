@@ -26,17 +26,6 @@ Missing customer IDs make it harder to study individual customers. Duplicate row
 ## 5. Conclusion
 
 This analysis helped me understand the dataset and find data-quality problems. I will use these findings to create charts and study sales trends.
-
-## 6. Data Visualization
-
-I created two charts using Python, Pandas, and Matplotlib.
-
-### Chart 1: Top 10 Countries by Sales
-
-This bar chart compares sales values across the ten countries with the highest sales in the filtered dataset. The United Kingdom has the highest sales value.
-
-### Chart 2: Monthly Sales Trend
-
 This line chart shows how sales values change from month to month. It helps identify changes and patterns in sales over time.
 
 ### Conclusion
